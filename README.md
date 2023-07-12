@@ -1,1 +1,1 @@
-# Homework-TSNE
+# TSNE implementation
